@@ -1,5 +1,5 @@
 baseURL = "https://eduardo-rdguez.github.io"
-title   = "@eduardguez"
+title   = "@eduardo-rdguez"
 
 DefaultContentLanguage = "en"
 
@@ -88,7 +88,7 @@ disableHugoGeneratorInject = false
     theme = "#252627"
 
   [params.logo]
-    logoText     = "$ cd ~eduardguez"
+    logoText     = "$ cd ~eduardo-rdguez"
     logoHomeLink = "/"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
@@ -100,7 +100,7 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "instagram"
-    url  = "https://www.instagram.com/_eduardguez/"
+    url  = "https://www.instagram.com/ed.rdguez/"
 
   [[params.social]]
     name = "email"
@@ -108,7 +108,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/eduardguez/"
+    url  = "https://github.com/eduardo-rdguez/"
 
   [[params.social]]
     name = "linkedin"
