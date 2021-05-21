@@ -3,14 +3,17 @@ title: "Aprendiendo Rust: Básico"
 author:
   name: "Eduardo Peralta Rodríguez"
 date: 2020-04-26T14:07:58-05:00
+last-modified: 2021-05-21T16:39:00-00:00
 draft: false
 toc: true
 tags: [
-    "rust",
-    "cargo",
-    "desarrollo",
-    "software",
-    "programación"
+  "rust",
+  "cargo",
+  "mozilla",
+  "software",
+  "sistemas",
+  "desarrollo",
+  "programación"
 ]
 images: [https://www.rust-lang.org/static/images/rust-logo-blk.svg]
 ---
@@ -25,7 +28,7 @@ Mejor aún, está diseñado para guiarlo naturalmente hacia un código eficiente
 > **"Rust es un lenguaje de programación de sistemas centrado en tres objetivos: seguridad, velocidad y concurrencia".**
 > — Documentación de Rust.
 
-Es lenguaje de programación compilado, de código abierto, multiparadigma que soporta programación por procedimientos, imperativa, funcional pura y orientado a objetos.
+Es un lenguaje de programación compilado, de código abierto, multiparadigma que soporta programación por procedimientos, imperativa, funcional pura y orientado a objetos.
 También admite programación genérica y metaprogramación, tanto en estilos estáticos como dinámicos.
 
 ![Rust logo](https://www.rust-lang.org/static/images/rust-logo-blk.svg)
